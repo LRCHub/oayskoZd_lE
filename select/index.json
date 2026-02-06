@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Hi-Ho",
+  "base_artist": "hide",
+  "createdAt": "2026-02-06T18:01:06.712670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hi Ho Silver",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/01_Hi_Ho_Silver_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hi Ho Silver Lining",
+      "artist": "Jeff Beck",
+      "has_synced": true,
+      "path": "select/02_Hi_Ho_Silver_Lining_Jeff_Beck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hi Ho Nobody’s Home",
+      "artist": "David Baerwald",
+      "has_synced": true,
+      "path": "select/03_Hi_Ho_Nobody’s_Home_David_Baerwald.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hi-Ho Silver Lining",
+      "artist": "Jeff Beck",
+      "has_synced": true,
+      "path": "select/04_Hi-Ho_Silver_Lining_Jeff_Beck.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hi Ho Silver",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/05_Hi_Ho_Silver_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hi Ho Silver Lining",
+      "artist": "Jeff Beck",
+      "has_synced": true,
+      "path": "select/06_Hi_Ho_Silver_Lining_Jeff_Beck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hi Ho Silver Lining",
+      "artist": "Jeff Beck",
+      "has_synced": true,
+      "path": "select/07_Hi_Ho_Silver_Lining_Jeff_Beck.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hi-Ho",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_01_Hi-Ho_hide.txt"
+    }
+  ]
+}
